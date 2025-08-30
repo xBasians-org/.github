@@ -20,7 +20,9 @@ This project shares accumulated experience in automating custom script creation,
 ---
 
 ## Getting started
-1. Clone the repository:
+#[xBasians.org Homepage](https://xBasians-org.github.io)
+
+#Clone the repository:
    ```bash
    git clone https://github.com/xBasians-org/<repo>.git
 
