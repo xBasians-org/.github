@@ -1,4 +1,4 @@
-## xBasians.org
+## xBasians.org - xBasians are cool people
 [xBasians.org Homepage](https://xBasians-org.github.io)
 
 Knowledge and tools for **xBase developers** (Harbour, xHarbour, Visual FoxPro and other dBase descendants).  
